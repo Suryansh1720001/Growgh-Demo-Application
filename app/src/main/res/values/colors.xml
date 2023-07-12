@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#285279</color>
+    <color name="purple_500">#285279</color>
+    <color name="purple_700">#285279</color>
+    <color name="teal_200">#285279</color>
+    <color name="teal_700">#285279</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //onboarding colors
+    <color name="background">#ffffff</color>
+    <color name="buttontext">#50C2C9</color>
+
+    //indicator color
+    <color name="statusBarColorBlue">#3a6893</color>
+
+</resources>

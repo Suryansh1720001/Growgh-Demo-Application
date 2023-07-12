@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Growgh Demo Application</string>
+
+    //Headings
+    <string name="heading_one">About Us</string>
+    <string name="heading_two">Our Misson</string>
+    <string name="heading_three">Our Vision</string>
+
+    //Description
+    <string name="desc_one">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</string>
+    <string name="desc_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</string>
+    <string name="desc_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</string>
+
+</resources>
